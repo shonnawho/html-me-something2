@@ -1,0 +1,44 @@
+p
+    {
+        color; black;
+        font-size:20px;
+        font-family: Garamond;
+        text-align: center;
+        margin:10px 10px 10px 10px;
+}
+     
+h1 {
+    color: rebeccapurple;
+    font-family: Garamond;
+    text-align: center;
+    border: 6px black;
+    margin: 70px 10px 10px 10px;
+}
+
+
+
+body {
+        background-color: grey;
+
+}
+
+img {
+
+    display:block;
+    margin: auto;
+    width: 50%;
+
+}
+
+
+audio{
+    display:block;
+    margin:auto;
+
+}
+
+title {
+    margin:40px 40px 40px 40px;
+
+
+}
